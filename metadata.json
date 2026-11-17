@@ -1,0 +1,6 @@
+{
+  "name": "Nova Agent",
+  "description": "Thinking Machines — On-chain AI agent landing page featuring an interactive Three.js 3D ceramic robot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
